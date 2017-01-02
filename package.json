@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "forever -w server",
     "dev": "webpack -w",
-    "build": "webpack"
+    "build": "webpack",
+    "install": "npm isntall && bower install && webpack"
   },
   "keywords": [],
   "author": "",
