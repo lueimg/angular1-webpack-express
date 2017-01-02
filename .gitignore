@@ -34,7 +34,6 @@ coverage/
 
 # ========== Config Files ==========
 server/core/database.js
-server/core/config.js
 
 # ========== Auto generated CSS files =========
 public/*.css
