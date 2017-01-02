@@ -33,7 +33,7 @@ build.sh
 coverage/
 
 # ========== Config Files ==========
-server/core/database.js
+
 
 # ========== Auto generated CSS files =========
 public/*.css
